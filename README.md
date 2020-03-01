@@ -25,18 +25,18 @@ Para ejecutar la creación de un usuario, se debe realizar los siguientes pasos:
     
     tipo: POST
     
-    {
-	"name": "fabian book4",
-	"email": "mails@mail1.com",
-	"password": "Awetee16",
-	"phones":[
-		{
-			"number":"3333",
-			"citycode":"43",
-			"contrycode": "12"
-		}
-		]
-    }
+	    {
+		"name": "fabian book4",
+		"email": "mails@mail1.com",
+		"password": "Awetee16",
+		"phones":[
+			{
+				"number":"3333",
+				"citycode":"43",
+				"contrycode": "12"
+			}
+			]
+	    }
     
   En la respuesta, debera devolver el siguiente objeto:
  
