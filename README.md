@@ -19,7 +19,7 @@ Arquitectura:
 Deuda técnica:
 
     - Falto realizar test en la capa de acceso a datos (por temas de tiempo no alcancé a buscar otras soluciones en los mock con hibernate)
-    - No se alcanzo a implementar uuid en los id de los registros, solo se implemento un identificador tipo Long.
+    - No se alcanzo a implementar uuid en los id de los registros, solo se implemento un identificador tipo Long (no me funciono a la primera el tema de las llaves foreaneas con hibernate).
 
 Modo de uso:
 
