@@ -10,6 +10,8 @@ Se implemeta Hibernate para la persistencia con la bd.
 
 Se implementa para la seguridad de las sessiones JWT.
 
+Se realizan test unitarios en las clases principales del artefacto.
+
 Deuda tecnica:
 
 - Falto realizar test en la capa de acceso a datos (por temas de tiempo no alcancé a buscar otras soluciones en los mock con hibernate)
