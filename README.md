@@ -1,6 +1,10 @@
 # test-user
 ms para agregar usuarios a una bd en memoria H2 con generación de token de sesion con JWT
 
+Instalacion:
+
+- Para ejecutar ms se debe realizar con el comando (en el directorio raiz del proyecto): ./gradlew bootRun , levanta por el puerto 8081
+
 
 Arquitectura:
 
